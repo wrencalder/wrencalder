@@ -14,10 +14,10 @@ Models that only look good in a notebook are unfinished.
 
 I care about **evaluation, latency, and the systems around inference** — turning experiments into reliable software that can handle real users.
 
+* 🧪 **Measure first** — reproducible experiments and honest evaluation
 * 📊 **Signal over spectacle** — meaningful metrics before flashy demos
 * 🔁 **Experiment → service** — turning training loops into usable APIs
 * ⚙️ **Systems matter** — efficient paths, careful memory, predictable production behavior
-* 🧪 **Measure first** — reproducible experiments and honest evaluation
 
 ---
 
@@ -39,10 +39,13 @@ I care about **evaluation, latency, and the systems around inference** — turni
 
 ---
 
-### featured work
+### featured work 
 
 * [`covbot`](https://github.com/wrencalder/covbot) — chatbot from bachelor thesis work
 * [`master-thesis`](https://github.com/wrencalder/master-thesis) — high-performance rendering research
+*
+
+ 
 
 > More ML, training, and systems projects coming soon.
 
@@ -56,5 +59,5 @@ I care about **evaluation, latency, and the systems around inference** — turni
 
 </div>
 <!--
-**wrencalder/wrencalder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**wrencalder/wrencalder** is a ✨ _special_ ✨ repository because this `README.md` file appears on your GitHub profile.
 -->
