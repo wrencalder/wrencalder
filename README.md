@@ -41,12 +41,6 @@ I care about **evaluation, latency, and the systems around inference** — turni
 
 ### featured work 
 
-* [`covbot`](https://github.com/wrencalder/covbot) — chatbot from bachelor thesis work
-* [`master-thesis`](https://github.com/wrencalder/master-thesis) — high-performance rendering research
-*
-
- 
-
 > More ML, training, and systems projects coming soon.
 
 ---
